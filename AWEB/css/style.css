@@ -1,0 +1,146 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    font-size: 5.626rem;
+    color: #66BFBF;
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento' ,cursive;
+    
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+span{
+    text-decoration: underline;
+}
+
+hr{
+    border-style: none; 
+    border-top-style:dotted ;
+    border-width: 7px;
+     
+    border-color: #adbaba;
+    height: 0px;
+    width: 5%; 
+    margin-bottom: 100px;;
+    
+   }
+
+
+.top-cont{
+    background-color:#e4f9f5;
+    position: relative;
+   padding-top: 100px;
+}
+
+
+.pro{
+    margin-top: 20px;
+    font-weight: normal;
+    
+}
+   
+
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    
+}
+.image{
+    height: 200px;
+    width: 200px;
+}
+.bottom-container{
+    color: #66BFBF;
+}
+a{
+    color: #11999E;
+}
+.skill-row{
+    width : 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+    
+}
+.java-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.contact-image{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile{
+    line-height: 2;
+    width: 50%;
+    padding: 100px;
+    margin: 0px auto auto;
+  
+   }
+.middle-container{
+    background-color: #ffffff;
+   }
+.contact-me{
+       width: 50%;
+       margin: 100px auto 100px auto;
+       line-height: 2;
+   }
+.desc-contactme{
+       margin-bottom: 100px;
+   }
+.btn{
+       padding: 10px 20px;
+       text-decoration: none;
+       font-family: 'Montserrat', sans-serif;
+       background-color: #11999E;
+       color: white;
+       border-radius: 5px;
+   }
+   .btn:hover{
+       background-color: #30e3eb;
+   }
+
+.bottom-container{
+    background-color:#66BFBF;
+    padding: 50px 0px 20px;
+    color: white;
+   }
+.footer-link{
+       color: #11999E;
+       
+       margin: 10px 20px;
+       text-decoration: none;
+       font-family: 'Montserrat', sans-serif;
+       font-weight: 500;
+   }
+.footer-link:hover{
+    color:white;
+}
+.cwrite{
+    font-size:0.75em ;
+    padding: 20px 0 10px;
+}
+
+
